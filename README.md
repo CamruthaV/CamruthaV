@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Amruthavalli Chivukula! 👋
+## Hi, I'm Amruthavalli Chivukula! 👋
 
 I am a passionate B.Tech CS student at GITAM Hyderabad, driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, and applying what I've learnt in a meanungful and beneficial way.
 
