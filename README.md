@@ -1,16 +1,18 @@
 ## Hi, I'm Amruthavalli Chivukula! 👋
 
-I am a passionate B.Tech CS student at GITAM Hyderabad, driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, and applying what I've learnt in a meanungful and beneficial way.
+I am a passionate B.Tech CS student at GITAM Hyderabad, driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, and applying what I've learnt in a creative and fun way.
 
 ![CamruthaV's Stats](https://github-readme-stats.vercel.app/api?username=CamruthaV&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor's in Computer Science, specializing in Internet of Things, at GITAM Hyderabad.
-- 
+- 💻 I love learning new things in the tech space, especially in Web Development, Cloud Computing and Internet of Things.
+- 📅 I'm in my final year and I will be graduating in May next year (2025).
+- 😄 Pronouns: She / Her
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,node,tailwind,bootstrap)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -18,8 +20,19 @@ I am a passionate B.Tech CS student at GITAM Hyderabad, driven by a curiosity fo
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Focusing on MERN Stack.
-
+  - Exploring Node.JS to integrate frontend and backend.
+ 
+- 🌱 Learning Internet of Things
+  - Familiar with hardware requirements.
+  - Working on executing some projects.
+  - Looking for any extra knowledge in this space.
+  - Collaborating with college professors to write a few papers.
+ 
+- 🔭 Starting out in AI and Cybersecurity
+  - Worked on an AI assistant (like JARVIS) using Python.
+  - Interested to learn more about Generative AI, in particular.
+  - Open to working on projects in Cybersecurity. 
+  - Certified in Cybersecurity (ISC2) and Google Cybersecurity (Coursera)
 
 ## 📬 Get in Touch
 
