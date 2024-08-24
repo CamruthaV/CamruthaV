@@ -11,8 +11,18 @@ I am a passionate B.Tech CS student at GITAM Hyderabad, driven by a curiosity fo
 - 📅 I'm in my final year and I will be graduating in May next year (2025).
 - 😄 Pronouns: She / Her
 
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,python,java)](https://github.com/CamruthaV) <br>
+Primarily working in Java
+
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,node,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap)](https://github.com/CamruthaV)
+
+## Extra Skills
+[![My Skills](https://skillicons.dev/icons?i=arduino,powershell,sqlite,ubuntu,vscode)](https://github.com/CamruthaV)
+
+## Excited to Learn
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,figma,gcp,kali,linux,mongodb,ps,pr,tailwind)](https://github.com/CamruthaV)
 
 ## 🌱 Currently Exploring
 
