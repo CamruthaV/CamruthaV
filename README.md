@@ -2,7 +2,7 @@
 
 I am a passionate B.Tech CS student at GITAM Hyderabad, driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, and applying what I've learnt in a creative and fun way.
 
-<! -- ![CamruthaV's Stats](https://github-readme-stats.vercel.app/api?username=CamruthaV&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
+<!-- ![CamruthaV's Stats](https://github-readme-stats.vercel.app/api?username=CamruthaV&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
 ## 🚀 About Me
 
