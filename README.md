@@ -43,12 +43,27 @@ Primarily working in Java
   - Interested to learn more about Generative AI, in particular.
   - Open to working on projects in Cybersecurity. 
   - Certified in Cybersecurity (ISC2) and Google Cybersecurity (Coursera)
+ 
+
+## ⚒️ What I've been up to lately
+   <h3>GSSoC'24 Extd.</h3>
+  <div style='display:flex; align-items:center; gap: 50px;' align='center'>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="250px" height="250px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="250px" height="250px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="250px" height="250px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="250px" height="250px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="250px" height="250px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="250px" height="250px" />
+  </div>
+
+ <!-- <h3>Other Achievements</h3>
+  <img src="![github-foundations](https://github.com/user-attachments/assets/bc24a96d-6439-41db-8bc5-ed19cab0b411)" /> -->
 
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://linkedin.com/in/amruthavalli-chivukula)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀 
 
 
 
