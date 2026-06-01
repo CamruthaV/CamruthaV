@@ -15,9 +15,16 @@ Primarily focused on GCP, with working familiarity in AWS and Azure.
 
 ---
 
+## ✅ Certifications
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- ISC2 Certified in Cybersecurity (CC)
+- Google Cloud Associate Cloud Engineer (GCP ACE)
+
+---
+
 ## 🚀 Current Journey
 
-- Preparing for **GCP Associate Cloud Engineer**
+- Preparing for **Microsoft Certified: Azure Security Engineer Associate**
 - Building towards **Cloud Security specialization**
 - Developing an **attacker mindset to better design defenses**
 
